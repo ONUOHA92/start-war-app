@@ -1,0 +1,32 @@
+.header-container {
+    width: 100%;
+    padding: 0px;
+    height: 70px;
+    display: flex;
+    justify-content: space-between;
+    
+   
+    background-color: black;
+  
+  }
+  
+  .header-container h2 {
+    padding: 15px;
+    color: yellow;
+   
+  }
+
+  .header-container a  {
+    text-decoration: none;
+  }
+
+  .header-container ul li {
+    margin-top: 20px;
+    list-style: none;
+    color: yellow;
+    text-transform: uppercase;
+    margin-right: 10px;
+   
+  }
+
+ 
